@@ -13,7 +13,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Php" **alt="Php" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
         <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" title="Mongodb" **alt="MongoDB" width="40" height="40"/>
-        <img src="https://images.freeimages.com/vme/images/2/8/284731/postgresql_logo_preview" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968388.png" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
       </div>
 </div>
 <!--
