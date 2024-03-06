@@ -11,7 +11,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Php" **alt="Php" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
         <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" title="Mongodb" **alt="MongoDB" width="40" height="40"/>
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968388.png" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
       </div>
